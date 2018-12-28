@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+     <!-- viewBox="0 0 13.9192 15.8242" -->
+     <!-- width="0.548in" -->
+     <!-- version="1.2" -->
+     <!-- height="0.623in" -->
+<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny"
+     width="1.4cm"
+     height="0.7cm"
+     viewBox="0 0 14 7"
+     y="0in"
+     x="0in" >
+    <desc>
+        <referenceFile>sparkfun-connectors_rj11-6_pcb.svg</referenceFile>
+    </desc>
+    <g  id="copper1" gorn="0.0">
+        <circle  stroke="#F7BD13" id="connector0pad" cx="4.5" stroke-width="0.4318" cy="1" gorn="0.0.0" fill="none" connectorname="1" r="0.5"/>
+        <circle  stroke="#F7BD13" id="connector1pad" cx="5.5" stroke-width="0.4318" cy="3.5" gorn="0.0.1" fill="none" connectorname="2" r="0.5"/>
+        <circle  stroke="#F7BD13" id="connector2pad" cx="6.5" stroke-width="0.4318" cy="1" gorn="0.0.2" fill="none" connectorname="3" r="0.5"/>
+        <circle  stroke="#F7BD13" id="connector3pad" cx="7.5" stroke-width="0.4318" cy="3.5" gorn="0.0.3" fill="none" connectorname="4" r="0.5"/>
+        <circle  stroke="#F7BD13" id="connector4pad" cx="8.5" stroke-width="0.4318" cy="1" gorn="0.0.4" fill="none" connectorname="5" r="0.5"/>
+        <circle  stroke="#F7BD13" id="connector5pad" cx="9.5" stroke-width="0.4318" cy="3.5" gorn="0.0.5" fill="none" connectorname="6" r="0.5"/>
+        <circle  stroke="black" cx="1" id="nonconn0" stroke-width="0" cy="5.7" gorn="0.0.6" fill="black" r="0.9"/>
+        <circle  stroke="black" cx="13" id="nonconn1" stroke-width="0" cy="5.7" gorn="0.0.7" fill="black" r="0.9"/>
+        <g  id="copper0" gorn="0.0.8">
+          <circle  stroke="#F7BD13" id="connector0pad" cx="4.5" stroke-width="0.4318" cy="1" gorn="0.0.8.0" fill="none" connectorname="1" r="0.5"/>
+          <circle  stroke="#F7BD13" id="connector1pad" cx="5.5" stroke-width="0.4318" cy="3.5" gorn="0.0.8.1" fill="none" connectorname="2" r="0.5"/>
+          <circle  stroke="#F7BD13" id="connector2pad" cx="6.5" stroke-width="0.4318" cy="1" gorn="0.0.8.2" fill="none" connectorname="3" r="0.5"/>
+          <circle  stroke="#F7BD13" id="connector3pad" cx="7.5" stroke-width="0.4318" cy="3.5" gorn="0.0.8.3" fill="none" connectorname="4" r="0.5"/>
+          <circle  stroke="#F7BD13" id="connector4pad" cx="8.5" stroke-width="0.4318" cy="1" gorn="0.0.8.4" fill="none" connectorname="5" r="0.5"/>
+          <circle  stroke="#F7BD13" id="connector5pad" cx="9.5" stroke-width="0.4318" cy="3.5" gorn="0.0.8.5" fill="none" connectorname="6" r="0.5"/>
+          <circle  stroke="black" cx="1" id="nonconn2" stroke-width="0" cy="5.7" gorn="0.0.8.6" fill="black" r="0.9"/>
+          <circle  stroke="black" cx="13" id="nonconn3" stroke-width="0" cy="5.7" gorn="0.0.8.7" fill="black" r="0.9"/>
+        </g>
+    </g>
+    <g  id="silkscreen" gorn="0.1">
+        <line  stroke="#f0f0f0" stroke-width="0.2032" y1="7" x2="14" class="other" x1="14" y2="0" stroke-linecap="round"/>
+        <line  stroke="#f0f0f0" stroke-width="0.2032" y1="0" x2="0" class="other" x1="14" y2="0" stroke-linecap="round"/>
+        <line  stroke="#f0f0f0" stroke-width="0.2032" y1="0" x2="0" class="other" x1="0" y2="7" stroke-linecap="round"/>
+        <line  stroke="#f0f0f0" stroke-width="0.2032" y1="7" x2="0" class="other" x1="14" y2="7" stroke-linecap="round"/>
+    </g>
+</svg>
