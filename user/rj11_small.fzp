@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <module referenceFile="sparkfun-connectors-rj11-6-pth_fix.fzp" moduleId="myrj11" fritzingVersion="0.7.2b">
-  <!-- generated from Sparkfun Eagle Library 'SparkFun-Connectors' RJ11-6 PTH -->
   <version>5</version>
   <date>Thu Dec 27 2018</date>
   <label>J</label>
@@ -22,12 +21,12 @@
   </properties>
   <views>
     <breadboardView>
-      <layers image="breadboard/rj11_small_breadboard.svg">
+      <layers image="breadboard/sparkfun-connectors_rj11-6_breadboard.svg">
         <layer layerId="breadboard"/>
       </layers>
     </breadboardView>
     <schematicView>
-      <layers image="schematic/rj11_small_schematic.svg">
+      <layers image="schematic/sparkfun_rj11-6_schematic.svg">
         <layer layerId="schematic"/>
       </layers>
     </schematicView>
@@ -39,7 +38,7 @@
       </layers>
     </pcbView>
     <iconView>
-      <layers image="icon/rj11_small_icon.svg">
+      <layers image="icon/RJ11-6.svg">
         <layer layerId="icon"/>
       </layers>
     </iconView>
